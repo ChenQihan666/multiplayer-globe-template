@@ -108,7 +108,12 @@ function App() {
 			/>
 
 			{/* Let's give some credit */}
-			
+			<p>
+				Powered by <a href="https://cobe.vercel.app/"> Cobe</a>,{" "}
+				<a href="https://www.npmjs.com/package/phenomenon">Phenomenon</a>,{" "}
+				<a href="https://npmjs.com/package/partyserver/"> PartyServer</a> and{" "}
+				<a href="https://qihanx.cn"> ChenQihan</a>
+			</p>
 		</div>
 	);
 }
