@@ -92,7 +92,7 @@ function App() {
 	return (
 		<div className="App">
 			<h1>大家都在哪里?</h1>
-			<h2>Where's everyone at?</h2>
+			<h3>Where's everyone at?</h3>
 			{counter !== 0 ? (
 				<p>
 					<b>{counter}</b> {counter === 1 ? "person" : "people"} connected.
